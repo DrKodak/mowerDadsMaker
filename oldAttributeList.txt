@@ -1,0 +1,69 @@
+# All animated
+Backgrounds = [("Medieval", 5),
+               ("Mount-Fuji", 5),
+               ("Talladega", 5),
+               ("The-Moon", 5),
+
+# All animated
+Effects = [("Hot-Head", 5),
+           ("None", 95)
+]
+
+# Static
+Skins = [("Body", 5),
+]
+
+# Static
+Shirts = [("Yellow-Shirt", 5),
+]
+
+# Static
+Legs = [("Legs", 5),
+]
+
+# Static
+Shoes = [("None", 1),
+]
+
+# Static
+Hats = [("viking", 5),
+]
+
+# Static
+Faces = [("sunglasses", 5),
+]
+
+# Static
+Items = [("bottle", 5),
+]
+
+# All animated
+Mowers = [("Red",       45),
+          ("Green",     45),
+          ("DarkGreen", 45),
+          ("Orange",    30),
+          ("Yellow",    30),
+          ("Blue",      15),
+          ("Brown",     15),
+          ("White",     15),
+          ("Black",     15),
+          ("LightBlue", 15),
+          ("Maroon",    15),
+          ("Pink",      15),
+          ("Purple",    15),
+          ("RedOrange", 15),
+          ("Seafoam",   15),
+          ("Teal",      15),
+          ("Copper",    4),
+          ("Silver",    3),
+          ("Golden",    2),
+          ("Diamond",   1),
+          ("Rainbow",   1)
+]
+
+# All animated
+MowerEffects = [("Flames", 10),
+                ("Shine", 10),
+                ("None", 80)
+]
+
